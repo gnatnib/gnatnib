@@ -1,4 +1,4 @@
-<h2 align="left">Hi there! My name is Bintang Syafrian👋</h2>
+<h1 align="left">Hi there! My name is Bintang Syafrian Rizal👋</h2>
 
 ###
 
