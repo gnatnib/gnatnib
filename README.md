@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">i code stuff.</p>
+<p align="left">mountain scaler, code writer.</p>
 
 ###
 
