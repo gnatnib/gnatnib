@@ -15,8 +15,6 @@
 
 <h2 align="center">Language and Tools 🛠️</h2>
 
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -52,8 +50,6 @@
 ###
 
 <h2 align="center">Socials 🌐 </h2>
-
-###
 
 <div align="center">
   <a href="https://instagram.com/bintwang" target="_blank">
