@@ -11,8 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gnatnib&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
 <h2 align="center">Language and Tools 🛠️</h2>
 
 <div align="center">
@@ -46,8 +44,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
-
-###
 
 <h2 align="center">Socials 🌐 </h2>
 
