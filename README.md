@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">mountain scaler, code writer.</p>
+<p align="center">mountain scaler, code writer.</p>
 
 ###
 
