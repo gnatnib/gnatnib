@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">mountain scaler, code writer.</p>
+<p align="center">probably in the mountains.</p>
 
 ###
 
