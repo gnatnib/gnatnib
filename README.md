@@ -8,11 +8,11 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=gnatnib&show_icons=true&theme=transparent&hide_border=true&count_private=true" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gnatnib&show_icons=true&theme=transparent&hide_border=true" 
     height="160"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnatnib&layout=compact&theme=transparent&hide_border=true" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gnatnib&layout=compact&theme=transparent&hide_border=true" 
     height="160"
   />
 </div>
