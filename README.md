@@ -7,14 +7,21 @@
 ###
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gnatnib&show_icons=true&theme=transparent&hide_border=true" 
-    height="160"
-  />
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gnatnib&layout=compact&theme=transparent&hide_border=true" 
-    height="160"
-  />
+  <a href="https://pangan-id.vercel.app">
+    <img 
+      src="https://raw.githubusercontent.com/gnatnib/pangan.id/main/public/homelogopanganid.png" 
+      height="100" 
+      alt="Pangan.id" 
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/gnatnib/UG-Booking">
+    <img 
+      src="https://raw.githubusercontent.com/gnatnib/UG-Booking/main/public/logo.png" 
+      height="100" 
+      alt="UG Booking" 
+    />
+  </a>
 </div>
 
 <h2 align="center">Language and Tools 🛠️</h2>
